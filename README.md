@@ -44,4 +44,4 @@ Remote API: Lab Async with Star Wars API
 
 ## UML
 
-[Lab Async](https://codesandbox.io/s/lab-31-36-app-state-vje5z) Please navigate to: assets/lab_async.JPG.
+[Lab Async](https://codesandbox.io/s/lab-async-ws3f5) Please navigate to: assets/lab_async.JPG.
